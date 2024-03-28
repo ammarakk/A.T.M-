@@ -1,0 +1,20 @@
+{
+  "name": "atm-aak",
+  "version": "1.0.0",
+  "description": "this atm is made by using typescript, node.js and inquirer ",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AMMAR AHMED KHAN",
+  "license": "MIT",
+  "dependencies": {
+    "init": "^0.1.2",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
